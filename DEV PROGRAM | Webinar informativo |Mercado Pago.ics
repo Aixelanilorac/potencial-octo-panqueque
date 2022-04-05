@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 10.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+BEGIN:VTIMEZONE
+TZID:S. America Eastern Time
+BEGIN:STANDARD
+DTSTART:20200301T230000
+TZOFFSETFROM:-0300
+TZOFFSETTO:-0300
+TZNAME:Standard Time
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+ATTENDEE;CN="Alexia Carolina Gutiérrez Mayorquín";ROLE=REQ-PARTICIPANT;RSVP=TRUE:MAILTO:carolinamayorquin87@gmail.com
+ORGANIZER;CN="Marielena Lopez Villegas":MAILTO:marielena.lopez@mercadolibre.com.mx
+DTSTART;TZID="S. America Eastern Time":20220505T120000
+DTEND;TZID="S. America Eastern Time":20220505T130000
+LOCATION:https://mercadolibre.webex.com/mercadolibre-sp/onstage/g.php?MTID=e1f8d63511c9fd0a2d218251cccb3eff4 
+TRANSP:OPAQUE
+SEQUENCE:0
+UID:WEBEX-MEETING CENTER-6.012770752-1438706207
+DTSTAMP:20220405T060523Z
+DESCRIPTION:Hola Alexia Carolina Gutiérrez Mayorquín,\n\nSe aprobó su inscripción al siguiente evento de Webex.\n\nTema: DEV PROGRAM | Webinar informativo |Mercado Pago\nOrganizador:  Marielena Lopez Villegas\njueves, 5 de mayo de 2022 10:00 am, Horario de verano de México (Ciudad de México, GMT-05:00)\njueves, 5 de mayo de 2022 10:00 am, Hora de la costa del Pacífico de Sudamérica (Bogotá, GMT-05:00)\njueves, 5 de mayo de 2022 12:00 pm, Hora del este de Sudamérica (Buenos Aires, GMT-03:00)\n\nNúmero de evento: 2341 458 1445\nId. de inscripción: Este evento no necesita un Id. de inscripción.\n\nContraseña del evento: Devprogram1\n\n-------------------------------------------------------\nPara entrar al evento en línea\n-------------------------------------------------------\nVaya a https://mercadolibre.webex.com/mercadolibre-sp/onstage/g.php?MTID=eb37b24c173192eb8dafc787c55c9ee60\n\nPara ver en otras zonas horarias o idiomas, haga clic en el enlace:\n\nhttps://mercadolibre.webex.com/mercadolibre-sp/onstage/g.php?MTID=eda372d593a703637f328ec8646adc0e9\n\n-------------------------------------------------------\nEntrar solo a la audioconferencia\n-------------------------------------------------------\nPara recibir una devolución de llamada, suministre su número de teléfono al entrar al evento o llame al número que aparece a continuación e introduzca el código de acceso.\nUnited States Toll: +1-408-418-9388\nNúmeros de llamada globales: https://mercadolibre.webex.com/mercadolibre-sp/globalcallin.php?MTID=e448adf5c910f17a18475f4ba8712af1d\nCódigo de acceso: 2341 458 1445\n\n-------------------------------------------------------\nPara obtener ayuda\n-------------------------------------------------------\nPuede ponerse en contacto con Marielena Lopez Villegas en:\nmarielena.lopez@mercadolibre.com.mx\n\n¿No puede entrar al evento?\nhttps://collaborationhelp.cisco.com/article/kwmj5eb\n\nPara entrar al evento con mayor rapidez, puede configurar Webex Events antes de que se inicie el evento. Vaya a: https://mercadolibre.webex.com/mercadolibre-sp/ecsetup.php?frommail=1\n\nLa reproducción de archivos multimedia enriquecidos con Universal Communications Format (UCF) necesita reproductores adecuados. Para ver este tipo de archivos multimedia enriquecidos en esta reunión, compruebe si tiene los reproductores instalados en la computadora. Vaya a https://mercadolibre.webex.com/mercadolibre-sp/onstage/systemdiagnosis.php \n.\n\nhttps://www.webex.com\n\nAVISO IMPORTANTE: Este servicio de Webex incluye una característica que permite ver e intercambiar audio, cualquier otro documento y materiales durante la sesión que va a grabarse. Al entrar en esta reunión, automáticamente otorga permiso para realizar dichas grabaciones. Si no otorga permiso para la grabación, analice sus inquietudes con el organizador de la reunión antes de que comience la grabación; de lo contrario, no entre a esta sesión. Tenga en cuenta que estas grabaciones pueden estar sujetas a divulgación en caso de litigio. \n
+SUMMARY:DEV PROGRAM | Webinar informativo |Mercado Pago
+PRIORITY:5
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR
